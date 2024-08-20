@@ -1,4 +1,4 @@
 20.08.2024 - Bgegin work
-
+			- Added REG104, ADP7182, BLM21, pnp trransistor MJ..
 
 
